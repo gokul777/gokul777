@@ -67,6 +67,7 @@ I have hands on experience in, <br/>
 ![Badge](https://img.shields.io/badge/-ApacheTomcat-blue)
 ![Badge](https://img.shields.io/badge/-MySQL-blue)
 ![Badge](https://img.shields.io/badge/-GCP-blue)
+![Badge](https://img.shields.io/badge/-AWSEC2-blue)
 ![Badge](https://img.shields.io/badge/-GoogleCloudServer-blue)
 ![Badge](https://img.shields.io/badge/-NodeJSExpress-blue)
 ![Badge](https://img.shields.io/badge/-Unixbox-blue)
