@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 
-Basically I am a full stack developer, but at present I am focusing on the front end development technologies.<br/>
-🔭 I’m currently working on a project in Angular 9 with Angular material.
+I'm a full stack developer, at present I am focusing more on the front end development technologies.<br/>
+🔭 Currently working on a project in Angular 14 with Angular material.
 
 ### About me:
-I am a creative thinker, who will contribute creative ideas to my projects so that it will stand bit different from the usual practices.
+I'm a creative thinker, who will contribute creative ideas to my projects so that it will stand bit different from the usual practices.
 Someone who will think out of the box and reluctant to give up. :)
 
 ### About work experince: 
