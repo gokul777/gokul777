@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm a full stack developer, at present I am focusing more on the front end development technologies.<br/>
+I'm a full stack developer and AI enthusiast, at present I am focusing more on the front end development technologies.<br/>
 🔭 Currently working on a project in Angular 14 with Angular material.
 
 ### About me:
@@ -11,23 +11,23 @@ Someone who will think out of the box and reluctant to give up. :)
 ### About work experince: 
 I have hands on experience in, <br/>
 
-📌 Mobile application development (native Android & Hybrid) <br/>
+📌 Mobile application development (native Android & Hybrid, Flutter) <br/>
 📌 Desktop Application development (JavaFX) <br/>
-📌 Web application development (HTML5, CSS3, SASS, JS, Angular JS, Anglar 9, React JS, NodeJS) <br/>
-📌 Web application hosting in cloud servers (GCP, AWS EC2, Hostgator, Veeble, Unixbox) <br/>
+📌 Web application development (HTML5, SASS, JS, TS, Anglar, React JS, NodeJS) <br/>
+📌 Web application hosting in cloud servers (GCP, AWS EC2, Hostgator, Cpanel, Unixbox) <br/>
 📌 Database management (MySQL, MongoDB, Apache CouchDB) <br/>
 📌 Webservices (Java Springboot REST, NodeJS) <br/>
-📌 Design (Adobe Photoshop) <br/>
+📌 Design (Adobe Photoshop, Figma) <br/>
+📌 Content Management System (CS Cart, Word Press, Contentful) <br/>
 📌 Agile methodologies <br/>
 
 ### Skill set:
 ![Badge](https://img.shields.io/badge/-HTML5-brightgreen)
 ![Badge](https://img.shields.io/badge/-Bootstrap-brightgreen)
-![Badge](https://img.shields.io/badge/-CSS3-brightgreen)
 ![Badge](https://img.shields.io/badge/-SCSS-brightgreen)
 ![Badge](https://img.shields.io/badge/-JavaScript-brightgreen)
-![Badge](https://img.shields.io/badge/-AngularJS-grbrightgreeneen)
-![Badge](https://img.shields.io/badge/-Angular9-brightgreen)
+![Badge](https://img.shields.io/badge/-TypeScript-grbrightgreeneen)
+![Badge](https://img.shields.io/badge/-Angular-brightgreen)
 ![Badge](https://img.shields.io/badge/-ReactJS-brightgreen)
 ![Badge](https://img.shields.io/badge/-jQuery-brightgreen)
 ![Badge](https://img.shields.io/badge/-jQueryMobile-brightgreen)
@@ -52,17 +52,24 @@ I have hands on experience in, <br/>
 ![Badge](https://img.shields.io/badge/-Linux-red)
 ![Badge](https://img.shields.io/badge/-Unix-red)
 
-![Badge](https://img.shields.io/badge/-Git-yellow)
-![Badge](https://img.shields.io/badge/-AdobePhotoshop-yellow)
+![Badge](https://img.shields.io/badge/-Github-yellow)
 ![Badge](https://img.shields.io/badge/-Rally-yellow)
 ![Badge](https://img.shields.io/badge/-Jira-yellow)
-![Badge](https://img.shields.io/badge/-SVN-yellow)
-![Badge](https://img.shields.io/badge/-VSS-yellow)
+![Badge](https://img.shields.io/badge/-Clickup-yellow)
+![Badge](https://img.shields.io/badge/-MicrosoftAzure-yellow)
+
+![Badge](https://img.shields.io/badge/-AdobePhotoshop-purple)
+![Badge](https://img.shields.io/badge/-Figma-purple)
+
+![Badge](https://img.shields.io/badge/-Contentful-lightblue)
+![Badge](https://img.shields.io/badge/-WordPress-lightblue)
+![Badge](https://img.shields.io/badge/-CScart-lightblue)
 
 ![Badge](https://img.shields.io/badge/-Eclipse-lightgrey)
 ![Badge](https://img.shields.io/badge/-AndroidStudio-lightgrey)
 ![Badge](https://img.shields.io/badge/-MSVisualStudioCode-lightgrey)
 ![Badge](https://img.shields.io/badge/-Brackets-lightgrey)
+![Badge](https://img.shields.io/badge/-Cursor-lightgrey)
 
 ![Badge](https://img.shields.io/badge/-ApacheTomcat-blue)
 ![Badge](https://img.shields.io/badge/-MySQL-blue)
